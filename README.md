@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @learnerfvs. 
-- 🌱 I’m currently learning css.
-- 🚶‍♂️ I am starting out on coding! Complete blank slate (for now).
-- 💞️ I’m looking to collaborate on obsidian designing.
+- 👋 Hi, I’m Fenil. 
+- Not a programmer, but curious to learn css and web designing.
+- And do it for fun, as hobby.
 
 <!---
 learnerfvs/learnerfvs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
